@@ -20,7 +20,7 @@ def main():
       "host": host,
       "port": 3306,
       "user": user,
-      "passwd": passwords},
+      "passwd": password},
     server_id=100,
     blocking=True,
     resume_stream=True,
